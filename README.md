@@ -55,4 +55,3 @@ Copyright © 2026 GreedyVox. All rights reserved.
 The images, artwork, and associated visual assets are provided under the repository's [proprietary asset licence](LICENSE.md). No open-source, Creative Commons, or public-domain licence applies unless a file is explicitly marked otherwise.
 
 Steam and Steamworks are trademarks of Valve Corporation. This repository is not affiliated with or endorsed by Valve Corporation.
-
