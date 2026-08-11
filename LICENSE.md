@@ -65,4 +65,3 @@ GreedyVox reserves all rights and remedies available under applicable law. A del
 THE ASSETS ARE PROVIDED "AS IS" WITHOUT WARRANTIES OF ANY KIND, TO THE MAXIMUM EXTENT PERMITTED BY LAW. GREEDYVOX IS NOT LIABLE FOR LOSS OR DAMAGE ARISING FROM ACCESS TO OR USE OF THE ASSETS TO THE MAXIMUM EXTENT PERMITTED BY LAW.
 
 If any provision of this licence is held unenforceable, the remaining provisions continue in effect to the greatest extent permitted by law.
-
